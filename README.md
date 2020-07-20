@@ -13,7 +13,7 @@
 | 声卡         |           |
 | 摄像头 | 无 |
 | 无线网卡       | 无                       |
-| OS  |catalina10.15.4 and catalina10.15.3|
+| OS  |catalina10.15.4 and catalina10.15.3 and Catalina10.15.5|
 
 
 ## 其他
